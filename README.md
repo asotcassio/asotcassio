@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/asotcassio/asotcassio/blob/output/snake.svg" alt="Snake animation" />
-
-###
